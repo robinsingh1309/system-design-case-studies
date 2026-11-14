@@ -7,6 +7,7 @@ This repository contains my personal solutions to system design problems. Each c
 | # | Problem | Solution |
 |---|---|---|
 | 001 | Design a URL Shortener | [View Solution](problems/001-url-shortener/README.md) |
+| 002 | Design Pastebin | [View Solution](problems/002-pastebin/README.md) |
 
 ## What Each Case Study Contains
 
