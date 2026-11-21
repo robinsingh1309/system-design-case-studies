@@ -8,6 +8,7 @@ This repository contains my personal solutions to system design problems. Each c
 |---|---|---|
 | 001 | Design a URL Shortener | [View Solution](problems/001-url-shortener/README.md) |
 | 002 | Design Pastebin | [View Solution](problems/002-pastebin/README.md) |
+| 003 | Scale from Zero to One Million Users | [View Solution](problems/003-scale-from-zero-to-millions/README.md) |
 
 ## What Each Case Study Contains
 
